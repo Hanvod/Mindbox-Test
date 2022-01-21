@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.Test.Shapes", "Mindbox.Test.Shapes\Mindbox.Test.Shapes.csproj", "{4783A1A6-1570-4F7A-BA56-0D5029C3EF5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.Test.Shapes.Tests", "Mindbox.Test.Shapes.Tests\Mindbox.Test.Shapes.Tests.csproj", "{270A2E82-2B48-45D6-AD3D-BD648210E1A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4783A1A6-1570-4F7A-BA56-0D5029C3EF5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4783A1A6-1570-4F7A-BA56-0D5029C3EF5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4783A1A6-1570-4F7A-BA56-0D5029C3EF5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4783A1A6-1570-4F7A-BA56-0D5029C3EF5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{270A2E82-2B48-45D6-AD3D-BD648210E1A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270A2E82-2B48-45D6-AD3D-BD648210E1A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270A2E82-2B48-45D6-AD3D-BD648210E1A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270A2E82-2B48-45D6-AD3D-BD648210E1A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
